@@ -9,3 +9,6 @@ Take any number, if it is even, divide by 2. If its odd, multiply the number by 
 # Why?
 When listening to the video I decided to make it into a python script using linked lists. 
 
+# Roadmap?
+Nope, not planning on working on this anymore. 
+
